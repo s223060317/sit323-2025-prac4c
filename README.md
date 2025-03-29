@@ -1,5 +1,5 @@
 # SIT323 Task 4.2C – Enhanced Calculator Microservice
-This project is a Node.js and Express-based microservice developed for SIT323/SIT737 Task 4.2C. The goal was to extend a basic calculator microservice by implementing additional arithmetic operations. I followed the option to add new functionality specifically exponentiation, square root, and modulo — and exposed these features as POST API endpoints.
+This project is a Node.js and Express-based microservice developed for SIT323/SIT737 Task 4.2C. The goal was to extend a basic calculator microservice by implementing additional arithmetic operations. I followed the option to add new functionality specifically exponentiation, square root, and modulo and exposed these features as POST API endpoints.
 
 ## What I Implemented
 I chose Option A from the task sheet:  
